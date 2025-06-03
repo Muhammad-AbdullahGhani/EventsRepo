@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Summer Music Festival",
+    "datetime": "2025-06-15T18:00:00",
+    "location": "Central Park, New York, NY",
+    "description": "Join us for an evening of live music under the stars! Featuring local bands and food trucks, this family-friendly event promises unforgettable memories."
+  },
+  {
+    "id": 2,
+    "name": "Tech Startup Meetup",
+    "datetime": "2025-06-20T14:00:00",
+    "location": "Silicon Valley Co-Working Space, CA",
+    "description": "Network with founders, investors, and demo your MVP. Learn from successful entrepreneurs and discover the latest trends in technology and innovation."
+  },
+  {
+    "id": 3,
+    "name": "Outdoor Yoga Session",
+    "datetime": "2025-06-22T08:00:00",
+    "location": "Sunset Beach, California",
+    "description": "Start your day with a refreshing yoga session by the ocean. All skill levels welcome. Bring your own mat and water bottle for this peaceful morning experience."
+  },
+  {
+    "id": 4,
+    "name": "Food & Wine Festival",
+    "datetime": "2025-06-25T16:00:00",
+    "location": "Downtown Plaza, Austin, TX",
+    "description": "Taste the best local cuisine and wines from renowned chefs and vintners. Live cooking demonstrations and wine tastings throughout the evening."
+  },
+  {
+    "id": 5,
+    "name": "Art Gallery Opening",
+    "datetime": "2025-06-28T19:00:00",
+    "location": "Modern Art Museum, Chicago, IL",
+    "description": "Celebrate the opening of our new contemporary art exhibition. Meet the artists, enjoy complimentary refreshments, and explore thought-provoking installations."
+  }
+]
